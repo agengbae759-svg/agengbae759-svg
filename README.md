@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Halo, Saya [ageng sidik wibowo]!
+Saya adalah siswa SMK Syafa’atul Ummah jurusan **Rekayasa Perangkat Lunak (RPL)**.  
+Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 
-<!--
-**agengbae759-svg/agengbae759-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Minat Saya
+- Pengembangan Web (HTML, CSS, JavaScript)
+- Pemrograman Backend (PHP, Laravel)
+- Database dan API
+- Cloud Computing
 
-Here are some ideas to get you started:
+## 🎯 Tujuan Saya
+Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui teknologi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Hubungi Saya
+- 📧 Email: [email agengbae759@gmail.com]
+- 🚀 Media Sosial: [media sosial igramgram]
+- 💻 GitHub: [https://github.com](ageng sidik wibowo)
